@@ -25,5 +25,5 @@ function dec(n) {
 
 function makeInt(n) {
   return parseInt(n)
-  return math.log10()
+  return Math.log10(n)
 }
