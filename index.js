@@ -1,5 +1,4 @@
-var a = 1
-var b = 2
-function addAB(){
-  return a += b
+
+function add(1, 3){
+  return 1 + 3
 }
