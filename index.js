@@ -4,5 +4,5 @@ function add(a, b) {
 }
 
 function sub(b, a) {
-  return b - a
+  return a - b
 }
