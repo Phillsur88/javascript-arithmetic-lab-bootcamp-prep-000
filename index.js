@@ -27,4 +27,3 @@ function makeInt(n) {
   return parseInt(n)
   return math.log10()
 }
-
