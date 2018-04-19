@@ -27,5 +27,3 @@ function makeInt(n) {
   if(Math.log10(n))
   return parseInt(n)
 }
-
-
