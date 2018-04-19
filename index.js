@@ -19,6 +19,3 @@ function inc(n) {
   return n+1
 }
 
-function inc(n) {
-  return n-1
-}
