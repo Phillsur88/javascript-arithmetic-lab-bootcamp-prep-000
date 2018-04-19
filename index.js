@@ -24,6 +24,8 @@ function dec(n) {
 }
 
 function makeInt(n) {
+  if(Math.log10(n))
   return parseInt(n)
-  return Math.log10(n)
 }
+
+
